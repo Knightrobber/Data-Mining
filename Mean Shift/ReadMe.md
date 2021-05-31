@@ -1,4 +1,5 @@
-I perform 2 image processing tasks - mean shift filtering and mean shift segmentation. Download the juypter notebook to check it out
+I perform 2 image processing tasks - mean shift filtering and mean shift segmentation. Download the juypter notebook to check it out.
+
 The following are some results of the above procedures
 
 
